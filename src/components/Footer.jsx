@@ -17,18 +17,18 @@ const contactInfo = [
   {
     icon: <FaPhone className="mr-4 text-white/70"/>,
     text: <a href="#" className="hover:text-sky-300 transition-colors">
-      +91 999 999-786
+      +91 XXXX-XXXX-XX Mobile No.
     </a>,
   },
   {
     icon: <MdOutlineEmail className="mr-4 text-white/70"/>,
     text: <a href="#" className="hover:text-sky-300 transition-colors">
-      info@taruntsmile.com
+      info@your email address
     </a>,
   },
   {
     icon: <FaMapMarkedAlt className="mr-4 text-white/70"/>,
-    text: <span>123 Dental Avenue, Loharu Road, Charkhi Dadri</span>,
+    text: <span>XXXXXX Your address</span>,
   },
 ]
 
@@ -43,7 +43,7 @@ const Footer = () => {
               <FaTooth className="text-2xl text-sky-300"/>
             </div>
             <h2 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-sky-300 to-blue-200">
-              Tarun Smile
+              Your clinic Name
             </h2>
           </div>
           <div className="flex space-x-6 mb-8">

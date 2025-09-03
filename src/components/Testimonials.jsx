@@ -7,30 +7,30 @@ const Testimonials = () => {
   const testimonials = [
     {
       id: 1,
-      name: 'John Doe',
+      name: 'XXXXX',
       role: 'Patient',
       content:
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quibusdam optio earum reiciendis, iusto voluptatem.',
       rating: 5,
-      image: 'https://randomuser.me/api/portraits/men/32.jpg',
+      image: 'https://randomuser.me/api/portraits/men/3.jpg',
     },
     {
       id: 2,
-      name: 'Anna Smith',
+      name: 'XXXXX',
       role: 'Patient',
       content:
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quibusdam optio earum reiciendis, iusto voluptatem.',
       rating: 5,
-      image: 'https://randomuser.me/api/portraits/women/44.jpg',
+      image: 'https://randomuser.me/api/portraits/women/4.jpg',
     },
     {
       id: 3,
-      name: 'Michael Johnson',
+      name: 'XXXXXX',
       role: 'Patient',
       content:
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quibusdam optio earum reiciendis, iusto voluptatem.',
       rating: 5,
-      image: 'https://randomuser.me/api/portraits/men/67.jpg',
+      image: 'https://randomuser.me/api/portraits/men/6.jpg',
     },
   ];
 
@@ -64,7 +64,7 @@ const Testimonials = () => {
             What Our Patients Say
           </h2>
           <p className="mt-4 text-xl text-gray-600">
-            aaj ki bbatt ajfksajfkljfklsajfksjflkjfalkjfskldfjasklfjklsdfjskl
+            Text as per customer
           </p>
         </div>
 

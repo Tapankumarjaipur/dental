@@ -19,7 +19,7 @@ const Header = () => {
                 {/* Logo Section */}
                 <div className="flex items-center space-x-2">
                     <Hospital className="w-8 h-8 text-sky-600" />
-                    <span className="text-xl font-bold text-sky-600">Tarun Dental Clinic</span>
+                    <span className="text-xl font-bold text-sky-600">Your Clinic Name and Logo</span>
                 </div>
 
                 {/* Desktop Nav */}
